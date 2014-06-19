@@ -1,7 +1,7 @@
 <?php
 
 ########## Google Settings.. Client ID, Client Secret from https://cloud.google.com/console #############
-$google_client_id 		= '';
+$google_client_id 	= '';
 $google_client_secret 	= '';
 $google_redirect_url 	= ''; //path to your script
 $google_developer_key 	= '';
